@@ -40,12 +40,12 @@ export const Hero = () => {
               className="bg-accent hover:bg-accent/90 text-accent-foreground gap-2 px-8 py-6 text-lg hover-glow"
             >
               <a
-                href="https://wa.me/263781498828?text=Hi%2C%20I%20found%20your%20number%20on%20your%20website.%20I%27m%20interested%20in%20your%20Forex%20signals%20and%20mentorship."
+                href="https://chat.whatsapp.com/FPrxl7V6oBY3eiov1J4kZ5?mode=hqrt2"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <MessageCircle className="h-5 w-5" />
-                Message on WhatsApp
+                Join WhatsApp Group
               </a>
             </Button>
             <Button asChild variant="outline" size="lg" className="border-border hover:bg-secondary px-8 py-6 text-lg">
