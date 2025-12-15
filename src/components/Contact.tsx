@@ -96,7 +96,7 @@ export const Contact = () => {
               <h4 className="font-medium text-foreground mb-4">Follow on Social Media</h4>
               <div className="flex gap-4">
                 <a
-                  href="https://www.instagram.com/austinslayerfx"
+                  href="https://www.instagram.com/austinstayerfx?igsh=MWtxN2VwbzdqZXlkZA=="
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center text-muted-foreground hover:bg-primary hover:text-primary-foreground transition-colors"
