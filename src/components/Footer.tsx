@@ -16,7 +16,7 @@ export const Footer = () => {
           </p>
 
           <a
-            href="https://wa.me/263781498828?text=Hi%2C%20I%20found%20your%20number%20on%20your%20website.%20I%27m%20interested%20in%20your%20Forex%20signals%20and%20mentorship."
+            href="https://chat.whatsapp.com/FPrxl7V6oBY3eiov1J4kZ5?mode=hqrt2"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-accent hover:text-accent/80 transition-colors"
